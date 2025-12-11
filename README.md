@@ -1,0 +1,2 @@
+# cotizador-grupointi
+Cotiza automáticamente
